@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "f54cf35c53eb09b8c16fe97e5dded212"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "667e8c20b0524f8b11cea1afe1d25e0b"
+    },
+    {
+        "path": "best-quran-academy-what-to-look-for-when-choosing-quality-quran-education",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-what-to-look-for-when-choosing-quality-quran-education/index.html",
+        "type": "file",
+        "md5": "35fe762d9b900eee36c86fdef6fc1c81"
+    },
+    {
+        "path": "best-quran-academy-your-trusted-path-to-quranic-learning-and-spiritual-growth",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-your-trusted-path-to-quranic-learning-and-spiritual-growth/index.html",
+        "type": "file",
+        "md5": "6308e961faf5a23a7f5681bf757a5a0e"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "fed486c9acd4476fb0ab29a35e3216f3"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "181231750956b5dc5311e749a8962b04"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "79e6bba759cb8824fdb46f4b972228cc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-10.png",
+        "type": "file",
+        "md5": "6ed87be6622de51c67e3de9b823a5e6d"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/download-10-2xl.png",
+        "type": "file",
+        "md5": "3a7927512b8a33bb9678897c0a31c8e5"
+    },
+    {
+        "path": "/media/website/responsive/download-10-lg.png",
+        "type": "file",
+        "md5": "3a7927512b8a33bb9678897c0a31c8e5"
+    },
+    {
+        "path": "/media/website/responsive/download-10-md.png",
+        "type": "file",
+        "md5": "3a7927512b8a33bb9678897c0a31c8e5"
+    },
+    {
+        "path": "/media/website/responsive/download-10-sm.png",
+        "type": "file",
+        "md5": "3a7927512b8a33bb9678897c0a31c8e5"
+    },
+    {
+        "path": "/media/website/responsive/download-10-xl.png",
+        "type": "file",
+        "md5": "3a7927512b8a33bb9678897c0a31c8e5"
+    },
+    {
+        "path": "/media/website/responsive/download-10-xs.png",
+        "type": "file",
+        "md5": "3a7927512b8a33bb9678897c0a31c8e5"
+    },
+    {
+        "path": "quran-lessons-for-my-son-a-complete-guide-for-parents-seeking-quality-islamic-education",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-a-complete-guide-for-parents-seeking-quality-islamic-education/index.html",
+        "type": "file",
+        "md5": "b3119457cbd6d1fc8a36972886c475e8"
+    },
+    {
+        "path": "quran-lessons-for-my-son-building-a-strong-foundation-in-faith-and-character",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-building-a-strong-foundation-in-faith-and-character/index.html",
+        "type": "file",
+        "md5": "96a6ddf6d1cef60d78b44ec62d151baf"
+    },
+    {
+        "path": "quran-lessons-for-my-son-guiding-my-child-toward-the-light-of-the-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-guiding-my-child-toward-the-light-of-the-quran/index.html",
+        "type": "file",
+        "md5": "50cbbc8dbabbeb885be62d7fdd545d5d"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "7554166790a6af03515df13d1e949aa2"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "55a809a7b9d3922cb80148780284294b"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0c994034e2d751470b4ac6e99cab8372"
+    }
+]

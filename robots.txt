@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://silly-unicorn-9ab324.netlify.app/sitemap.xml
